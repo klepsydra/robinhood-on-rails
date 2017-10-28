@@ -9,6 +9,10 @@ I am not affiliated with Robinhood or its associates. I am in no way responsible
 
 ### Latest updates
 
+
+#### 10/28/2017
+- Making way for autotrading backend
+
 #### 10/23/2017
 - Bug fix for correcting the buying power for instant accounts
 
